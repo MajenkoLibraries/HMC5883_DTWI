@@ -1,18 +1,1 @@
-{
-    "name": "HMC5883_DTWI",
-    "provides": "HMC5883_DTWI.h",
-    "license": "LICENSE.md",
-    "readme": "README.md",
-    "description": "HMC5883 Compass driver for chipKIT",
-    "category": "Sensors",
-    "subcategory": "Attitude",
-    "maintainer": "Matt Jenkins <matt@majenko.co.uk>",
-    "version": "1.0.0",
-    "family": "pic32",
-    "core": "chipkit",
-    "install": {
-        "examples": "/",
-        "HMC5883_DTWI.cpp": "/",
-        "HMC5883_DTWI.h": "/"
-    }
-}
+{"name":"HMC5883_DTWI","provides":"HMC5883_DTWI.h","license":"LICENSE.md","readme":"README.md","description":"HMC5883 Compass driver for chipKIT","category":"Sensors","subcategory":"Attitude","maintainer":"Matt Jenkins <matt@majenko.co.uk>","version":"1.0.1","family":"pic32","core":"chipkit","install":{"examples":"\/","library.properties":"\/","src":"\/"}}
